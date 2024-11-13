@@ -4,3 +4,25 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+datart/datart:latest          
+orcl19c_01:20221216        
+elasticsearch:8.3.3               
+kibana:8.3.3           
+dbeaver/cloudbeaver:latest          
+mongo:latest          
+registry:latest          
+chinese-ocr:v2              
+hello-world:latest          
+sonarqube:8.7.1-community 
+keking/kkfileview:v2.2.1          
+registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c             
+pangliang/rocketmq-console-ng:latest          
+centos:7.4.1708        
+elasticsearch:6.6.0           
+rocketmqinc/rocketmq:latest          
+delron/fastdfs:latest          
+styletang/rocketmq-console-ng:latest          
+kibana:5.2.1           
+elasticsearch:5.2.1           
+mobz/elasticsearch-head:5
+rabbitmq:3-management  
