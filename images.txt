@@ -1,12 +1,1 @@
-sonarqube:8.7.1-community
-keking/kkfileview:v2.2.1
-registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
-pangliang/rocketmq-console-ng:latest
-elasticsearch:6.6.0
-rocketmqinc/rocketmq:latest
-delron/fastdfs:latest
-styletang/rocketmq-console-ng:latest
-kibana:5.2.1
-elasticsearch:5.2.1
-mobz/elasticsearch-head:5
-rabbitmq:3-management
+rabbitmq
