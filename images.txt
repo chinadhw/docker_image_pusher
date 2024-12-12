@@ -1,2 +1,2 @@
-wurstmeister/zookeeper:3.4.1
-wurstmeister/kafka:3.4.1
+wurstmeister/zookeeper
+wurstmeister/kafka
