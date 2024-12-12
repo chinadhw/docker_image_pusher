@@ -1,3 +1,2 @@
-elasticsearch:8.6.2
-kibana:8.6.2
-logstash:8.6.2
+wurstmeister/zookeeper:5.5.1
+wurstmeister/kafka:5.5.1
