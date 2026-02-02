@@ -1,2 +1,2 @@
-infiniflow/ragflow:v0.23.1
-infiniflow/ragflow-oceanbase:4.2.1_10000092024042515
+elasticsearch:8.11.3
+kibana:8.11.3
