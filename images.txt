@@ -1,2 +1,2 @@
-nginx:latest
-docker.elastic.co/elasticsearch/elasticsearch:8.14.1
+infiniflow/ragflow:v0.23.1
+infiniflow/ragflow-oceanbase:4.2.1_10000092024042515
