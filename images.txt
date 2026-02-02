@@ -1,6 +1,2 @@
-infiniflow/ragflow:v0.23.1
-mysql:8.0.39
-redis:latest
-infiniflow/ragflow-oceanbase:4.2.1_10000092024042515
 nginx:latest
 docker.elastic.co/elasticsearch/elasticsearch:8.14.1
